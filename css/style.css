@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    color: #333;
+    align-items: center;
+
+}
+
+main{
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+    margin: 30px 8px;
+}
+
+#capture{
+    background-color: #fff;
+    padding: 10px;
+    margin: 15px 0 15px 0;
+}
+
+#capture >img{
+    width: 100%;
+}
+
+ul{
+    text-align: left;
+    line-height: 1.6;
+    margin: 0 auto 50px auto;
+}
+
+blockquote{
+    font-style: italic;
+    text-align: left;
+}
+
+
+a{
+    color: #477ca7
+}
